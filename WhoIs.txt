@@ -1,0 +1,30 @@
+
+
+PROGRAM NAME: WhoIs Demo
+
+=====================================================================
+VERSION: v2.0
+
+=====================================================================
+AUTHOR: Jay Tanner
+
+=====================================================================
+SOURCE LANGUAGE: MS Visual BASIC v5
+
+=====================================================================
+PURPOSE & DESCRIPTION
+
+This little program demonstrates how to use the Microsoft Winsock
+control to access a WhoIs database.  Several such databases are
+available on the WWW.
+
+This demo allows the selection of any of several WhoIs servers from a
+list of alternatives.
+
+It is easy to use.  Simply select the desired WhoIs server, enter a
+domain name and click on the [Send Query] button.
+
+=====================================================================
+SPECIAL REQUIREMENTS
+
+Uses the MS Winsock ActiveX control.
